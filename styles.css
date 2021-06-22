@@ -1,0 +1,30 @@
+
+.container {
+    border:black solid 1px;
+}
+
+.bgColor {
+    display:inline-block;
+    width: 30%;
+    text-align: center;
+    color: white;
+    margin: 5px;
+    border-radius: 5%;
+}
+
+.darkBlue {
+    background-color: hsla(241, 75%, 21%, 1);
+}
+
+.darkRed {
+    background-color: hsla(348, 75%, 16%, 1);
+}
+
+.darkGreen {
+    background-color: hsla(117, 54%, 11%, 1);
+}
+
+.offWhite {
+    background-color: hsla(41, 16%, 83%, 1);
+    color: black;
+}
