@@ -94,3 +94,28 @@
 .quicksand {
     font-family: 'Quicksand';
 }
+
+/* Text Styles */
+.textStyles h1 {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'Noto Serif';
+}
+
+.textStyles h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Noto Serif';
+}
+
+.textStyles h3 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Bitter';
+}
+
+.textStyles p {
+    font-weight: 300;
+    font-size: 14px;
+    font-family: 'Bitter';
+}
