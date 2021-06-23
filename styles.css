@@ -1,6 +1,22 @@
 
+body {
+    margin: 0px 10%;
+    background-color: hsla(41, 16%, 83%, 1);
+}
+
+.title {
+    color: hsla(55, 100%, 81%, 1);
+    text-align: center;
+    text-shadow: 2px 1px black;
+    font-size: 42px;
+}
+
 .container {
-    border:black solid 1px;
+    border:hsla(199, 100%, 83%, 1) solid 2px;
+    border-radius: 5%;
+    padding: 10px;
+    margin: 10px auto;
+    background-color: white;
 }
 
 /* Colors */
@@ -11,6 +27,7 @@
     color: white;
     margin: 5px;
     border-radius: 5%;
+    min-width: 250px;
 }
 
 .darkBlue {
@@ -47,6 +64,7 @@
     margin: 5px;
     border-radius: 5%;
     background-color: black;
+    min-width: 250px;
 }
 
 .ivory {
@@ -81,6 +99,11 @@
     width: 30%;
     margin: 5px;
     border-radius: 5%;
+    min-width: 270px;
+}
+
+.fontName {
+    text-decoration: underline;
 }
 
 .notoSerif {
@@ -111,11 +134,11 @@
 .textStyles h3 {
     font-weight: 500;
     font-size: 18px;
-    font-family: 'Bitter';
+    font-family: 'Quicksand';
 }
 
 .textStyles p {
     font-weight: 300;
     font-size: 14px;
-    font-family: 'Bitter';
+    font-family: 'Quicksand';
 }
