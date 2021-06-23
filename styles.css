@@ -3,6 +3,7 @@
     border:black solid 1px;
 }
 
+/* Colors */
 .bgColor {
     display:inline-block;
     width: 30%;
@@ -71,4 +72,25 @@
 .deepBlue {
     background-color: hsla(41, 16%, 83%, 1);
     color: hsla(242, 100%, 22%, 1);
+}
+
+/* Fonts */
+.font {
+    display: inline-block;
+    font-size: x-large;
+    width: 30%;
+    margin: 5px;
+    border-radius: 5%;
+}
+
+.notoSerif {
+    font-family: 'Noto Serif';
+}
+
+.bitter {
+    font-family: 'Bitter';
+}
+
+.quicksand {
+    font-family: 'Quicksand';
 }
