@@ -28,3 +28,47 @@
     background-color: hsla(41, 16%, 83%, 1);
     color: black;
 }
+
+.blueHint {
+    background-color: hsla(177, 100%, 81%, 1);
+    color: black;
+}
+
+.sandy {
+    background-color: hsla(55, 100%, 81%, 1);
+    color: black;
+}
+
+.acColor {
+    display:inline-block;
+    width: 30%;
+    text-align: center;
+    margin: 5px;
+    border-radius: 5%;
+    background-color: black;
+}
+
+.ivory {
+    color: hsla(31, 21%, 92%, 1);
+}
+
+.slightGreen {
+    color: hsla(131, 77%, 92%, 1);
+}
+
+.yellowTint {
+    color:hsla(56, 100%, 83%, 1);
+}
+
+.skyBlue {
+    color:hsla(199, 100%, 83%, 1);
+}
+
+.importantRed {
+    color: hsla(0, 100%, 60%, 1);
+}
+
+.deepBlue {
+    background-color: hsla(41, 16%, 83%, 1);
+    color: hsla(242, 100%, 22%, 1);
+}
